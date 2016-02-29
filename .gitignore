@@ -1,0 +1,6 @@
+# Files to ignore in this git repository...
+# These files are for Eclipse IDE stuff...
+bin/
+.project
+.settings
+.classpath
